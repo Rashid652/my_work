@@ -429,7 +429,7 @@ h1,h2,p,ul {
     line-height: 29px;
     text-align: center;
     text-transform: capitalize;
-    color: #FFFFFF;
+    color: var(--text);
 }
 
 .footer__box {
